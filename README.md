@@ -8,11 +8,11 @@ User can also navigate between the different categories of news like Entertainme
 
 Techinical stuff used in this project are :
 
-ReactJS 
-Bootstrap
-API Key
-JSX
-JSON
-HTML
-CSS
-JavaScript 
+ReactJS,
+HTML,
+CSS,
+JavaScript,
+Bootstrap,
+API Key,
+JSX,
+JSON.
